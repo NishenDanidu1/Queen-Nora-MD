@@ -3,8 +3,8 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ Nishen ♥️</u>
 </p>
 <p align="center">
-<img src="https://ibb.co/kmfXXvw" width="350" height="350"/>
-</p>
+<img src="https://i.ibb.co/PDngg0P/E29gc784.png" width="350" height="350"/>
+  
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
 </p>
