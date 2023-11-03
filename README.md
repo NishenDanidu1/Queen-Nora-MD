@@ -40,8 +40,8 @@ Queen Nora Bot whatsapp bot is,
       Queen Nora whatsapp bot is an easy to use whatsapp robot.   |  Queen Nora whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
-* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
-(DONT FORK THIS REPO)
+* DONT FORK THIS REPO
+
 
 # 
 
