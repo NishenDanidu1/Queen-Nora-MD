@@ -6,19 +6,19 @@
 <img src="https://i.ibb.co/PDngg0P/E29gc784.png" width="350" height="350"/>
   
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+NORA+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=true&lines=QUEEN+NORA+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Nishen-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Nishen-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/NishenDanidu1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/NishenDanidu1/Queen-Nora-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nishen/Queen-Nora-MD-V2?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Nora-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NishenDanidu1/Queen-Nora-MD-V2?color=yellow&style=flat-square"></a>
+<a href="https://github.com/NishenDanidu1/Queen-Nora-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NishenDanidu1/Queen-Nora-MD-V2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/NishenDanidu1/Queen-Nora-Md-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NishenDanidu1/Queen-Nora-MD-V2?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/NishenDanidu1/Queen-Nora-Md-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NishenDanidu1/Queen-Nora-MD-V2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DarkMakerofc/Queen-Nora-Md-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/NishenDanidu1/Queen-Nora-Md-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 # 
@@ -65,7 +65,7 @@ Queen Nora Bot whatsapp bot is,
   ##* [How To setup Github step](Publish Soon...)
   
 * Deploy on Replit Video ⇓
-(video will uploading Soon
+(video will uploading Soon...)
    
 
 <p>
@@ -78,22 +78,17 @@ Queen Nora Bot whatsapp bot is,
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USNING QUEEN NORA💃💖
 
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
+* [🧑‍💻 Join Queen Nora Support Group 🧑‍💻](https://t.me/+wAa605jCMrI5MGNl)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/GcWzmpHJfC4CeKXDyvKyhO)
 
      
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
-
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!  
   
   #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/NishenDanidu1/count.svg)
 
-<h1>💗</h1> 
-<b>Thanks For</b> -
 
- [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/darkalphaxteam) and [isuru]() thanks for helps 💖
-
- ## [ WHATSAPP GROUPS ](https://github.com/DarkMakerofc/groups#README.md)
+ ## [ WHATSAPP GROUPS ](https://github.com/NishenDanidu1/groups#README.md)
