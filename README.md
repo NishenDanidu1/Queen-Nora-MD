@@ -9,13 +9,13 @@
 </p>
 <p align="center">
 <img src="https://i.ibb.co/PDngg0P/E29gc784.png" width="350" height="350"/>
-  
+
 <div align='center'>
 <a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="30">
 </div>
   
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=true&lines=QUEEN+NORA+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=true&lines=𝒬𝒰𝐸𝐸𝒩+𝒩𝒪𝑅𝒜+𝑀𝒟" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Nishen-green.svg?style=for-the-badge&logo=github"></a>
