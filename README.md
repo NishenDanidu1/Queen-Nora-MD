@@ -3,7 +3,7 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ Nishen ♥️</u>
   
   <div align='center'>
-<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="25">
+<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="30">
 </div>
   
 </p>
@@ -11,7 +11,7 @@
 <img src="https://i.ibb.co/PDngg0P/E29gc784.png" width="350" height="350"/>
   
 <div align='center'>
-<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="25">
+<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="30">
 </div>
   
 <p align="center">
@@ -41,9 +41,7 @@ Queen Nora Bot whatsapp bot is,
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
-
-<p align="left">
-<a href="https://github.com/NishenDanidu1/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+(DONT FORK THIS REPO)
 
 # 
 
