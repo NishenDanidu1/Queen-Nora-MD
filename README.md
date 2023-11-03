@@ -1,9 +1,18 @@
 
 <p align="center"> 
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ Nishen ♥️</u>
+  
+  <div align='center'>
+<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="25">
+</div>
+  
 </p>
 <p align="center">
 <img src="https://i.ibb.co/PDngg0P/E29gc784.png" width="350" height="350"/>
+  
+<div align='center'>
+<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="25">
+</div>
   
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=true&lines=QUEEN+NORA+WHATSAPP+BOT" alt="">
