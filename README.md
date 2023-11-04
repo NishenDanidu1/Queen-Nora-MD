@@ -14,7 +14,7 @@
 </div>
   
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=true&lines=𝒬𝒰𝐸𝐸𝒩+𝒩𝒪𝑅𝒜+𝑀𝒟" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=true&lines=𝒬𝒰𝐸𝐸𝒩+𝒩𝒪𝑅𝒜+"alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Nishen-green.svg?style=for-the-badge&logo=github"></a>
