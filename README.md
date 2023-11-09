@@ -7,7 +7,7 @@
   
 </p>
 <p align="center">
-<img src="https://i.ibb.co/2gL2FMr/Queen-Nora-MD.jpg" width="1280" height="720"/>
+<img src="https://i.ibb.co/2gL2FMr/Queen-Nora-MD.jpg" width="350" height="350"/>
 
 <div align='center'>
 <a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="800" height="600">
