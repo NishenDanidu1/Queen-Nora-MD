@@ -2,7 +2,7 @@
 <u>♥️ 𝐴𝑛 𝑊ℎ𝑎𝑡𝑠𝐴𝑝𝑝 𝑈𝑠𝑒𝑟 𝐵𝑜𝑡 𝐵𝑦 𝑁𝑖𝑠ℎ𝑒𝑛 ♥️</u>
   
   <div align='center'>
-<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="400" height="400">
+<a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="550" height="550">
 </div>
   
 </p>
