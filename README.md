@@ -7,7 +7,7 @@
   
 </p>
 <p align="center">
-<img src="https://i.ibb.co/0QFFVD6/Whats-App-Image-2023-11-04-at-17-58-41-7f43b857.jpg" width="350" height="350"/>
+<img src="https://i.ibb.co/0QFFVD6/Whats-App-Image-2023-11-04-at-17-58-41-7f43b857.jpg" width="1080" height="350"/>
 
 <div align='center'>
 <a href="https://github.com/QUEEN-NORA-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="350" height="30">
